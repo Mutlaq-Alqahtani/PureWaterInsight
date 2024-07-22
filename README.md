@@ -21,6 +21,8 @@ Goals
 Develop a machine learning model to predict water potability.
 Provide insights into water quality metrics affecting safety
 
+the Dataset could be found here: https://www.kaggle.com/datasets/adityakadiwal/water-potability
+
 # Model Performance
 After training the model using a Random Forest classifier and tuning its hyperparameters, the following results were obtained:
 
